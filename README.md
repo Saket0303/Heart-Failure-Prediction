@@ -9,7 +9,8 @@
   - Hiding the colorbar : We can disable the colorbar by setting the cbar parameter to False.
   - Removing the labels : We can disable the x-label and the y-label by passing False in the xticklabels and yticklabels parameters respectively.
   - Reference : https://seaborn.pydata.org/generated/seaborn.heatmap.html
-- Label Encoder
+
+- Label Encoder : Label Encoding refers to converting the labels into a numeric form so as to convert them into the machine-readable form. Machine learning algorithms can then decide in a better way how those labels must be operated. It is an important pre-processing step for the structured dataset in supervised learning.
 - Distplot
 - Displot
 - Histplot
